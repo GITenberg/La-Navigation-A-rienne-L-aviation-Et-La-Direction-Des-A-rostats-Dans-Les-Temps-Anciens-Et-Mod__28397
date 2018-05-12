@@ -1,0 +1,32 @@
+_repo: La-Navigation-A-rienne-L-aviation-Et-La-Direction-Des-A-rostats-Dans-Les-Temps-Anciens-Et-Mod__28397
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tissandier, Gaston
+    birthdate: 1843
+    deathdate: 1899
+    gutenberg_agent_id: '3806'
+    url: http://www.gutenberg.org/2009/agents/3806
+    wikipedia: http://en.wikipedia.org/wiki/Gaston_Tissandier
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- Technology
+gutenberg_issued: '2009-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28397'
+  lccn: '32025243'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- History'
+- !lcc 'TL'
+title: La Navigation Aérienne L'aviation Et La Direction Des Aérostats Dans Les Temps
+  Anciens Et Modernes
+url: http://www.gutenberg.org/ebooks/28397
